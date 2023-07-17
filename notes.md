@@ -4,11 +4,12 @@ Java is an object oriented programming language.
 
 Hitory:
 
-james goslin is the father of java. Initialy it was planned 
+* james goslin is the father of java.
+* Initialy it was planned 
 
 Fullform:
 
-j-just<br>A-another<br>V-virtual<br>A-accelerator
+J-just<br>A-another<br>V-virtual<br>A-accelerator
 
 Uses:
 
