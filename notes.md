@@ -45,3 +45,11 @@ Java Virtual Machine. It exsists as virtually which converts byte-code into obje
 
 Unicodes:
 * Java uses ASCII unicode system.
+
+Object-Oriented Programming Concept:
+
+1) [Object](https://docs.oracle.com/javase/tutorial/java/concepts/object.html)
+2) [Class](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)
+3) [Inheritance](https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html
+4) [Interface](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html)
+5) [Package](https://docs.oracle.com/javase/tutorial/java/concepts/package.html)
