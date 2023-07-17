@@ -43,4 +43,3 @@ JVM:
 
 Java Virtual Machine. It exsists as virtually which converts byte-code into object code.
 
-
