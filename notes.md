@@ -42,3 +42,5 @@ Java Runtime Environment. It consists of libraries likes scanner class, etc....
 JVM:
 
 Java Virtual Machine. It exsists as virtually which converts byte-code into object code.
+
+
