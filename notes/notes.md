@@ -1,5 +1,10 @@
-Java:
+# JAVA Programming Language
+1) [INTRODUCTION](https://github.com/manojm-dev/Programming-Java/edit/main/notes/notes.md#1-introduction)
+2) [OOPS](https://github.com/manojm-dev/Programming-Java/edit/main/notes/notes.md#2-object-oriented-programming-concept)
 
+## 1) INTRODUCTION
+
+### JAVA
 Java is an object oriented programming language.
 
 Hitory:
@@ -10,10 +15,6 @@ Hitory:
 Fullform:
 
 J-just<br>A-another<br>V-virtual<br>A-accelerator
-
-Uses:
-
-console and webbased application
 
 Features:
 * Secure
@@ -43,13 +44,11 @@ JVM:
 
 Java Virtual Machine. It exsists as virtually which converts byte-code into object code.
 
-Unicodes:
-* Java uses ASCII unicode system.
 
-Object-Oriented Programming Concept:
+## 2) Object-Oriented Programming Concept:
 
-1) [Object](https://docs.oracle.com/javase/tutorial/java/concepts/object.html)
-2) [Class](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)
-3) [Inheritance](https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html
-4) [Interface](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html)
-5) [Package](https://docs.oracle.com/javase/tutorial/java/concepts/package.html)
+1) [Object](https://docs.oracle.com/javase/tutorial/java/concepts/object.html) <br>
+2) [Class](https://docs.oracle.com/javase/tutorial/java/concepts/class.html) <br>
+4) [Inheritance](https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html)
+5) [Interface](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html)
+6) [Package](https://docs.oracle.com/javase/tutorial/java/concepts/package.html)
