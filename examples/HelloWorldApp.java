@@ -4,6 +4,9 @@
  */
 class HelloWorldApp{
     public static void main(String[] args){
-	System.out.println("Hello world!"); //Display string
+	String first_name = "Manoj";
+	String last_name = "M";
+	
+	System.out.println("Hello, " + first_name + last_name); //Display string
     }
 }
