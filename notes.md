@@ -32,12 +32,12 @@ Application Types:
 
 JDK:
 
-	Java Development Kit. It compiles java code into byte-code which is platform indipendent.
+Java Development Kit. It compiles java code into byte-code which is platform indipendent.
 
 JRE:
 
-	Java Runtime Environment. It consists of libraries likes scanner class, etc....
+Java Runtime Environment. It consists of libraries likes scanner class, etc....
 
 JVM:
 
-	Java Virtual Machine. It exsists as virtually which converts byte-code into object code.
+Java Virtual Machine. It exsists as virtually which converts byte-code into object code.
